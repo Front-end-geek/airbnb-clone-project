@@ -1411,8 +1411,7 @@ Help define the code structure
 Feedback opportunities for early improvement.
 
 
-TASK 3
-PROJECT ROLES AND RESPONSIBILITIES
+Project Roles and Responsibilities.
 Project Manager
 Oversee project progress and ensure milestones are met.
 Facilitate communication within the team.
